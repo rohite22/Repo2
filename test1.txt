@@ -1,0 +1,10 @@
+ Volume in drive E has no label.
+ Volume Serial Number is 2C67-743E
+
+ Directory of E:\MyProject
+
+02/24/2020  02:15 PM    <DIR>          .
+02/24/2020  02:15 PM    <DIR>          ..
+02/24/2020  02:15 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  164,883,841,024 bytes free
